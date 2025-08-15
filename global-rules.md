@@ -1,7 +1,6 @@
 # 🧠 AI Code Reviewer Rules & Guidelines
 
 This document defines the **mandatory rules** enforced by the AI-powered code reviewer. These rules apply to **all repositories** in the organization and are enforced via GitHub Actions and the VS Code extension.
-
 ---
 
 ## 🔐 1. Code Quality Standards
