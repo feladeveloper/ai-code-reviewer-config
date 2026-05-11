@@ -10,7 +10,6 @@
 --
 
 ## 1. Purpose of This Document
-
 This Technical Requirements Document (TRD) translates the approved **Business Requirements Document (BRD)** and **Product Requirements Document (PRD)** into concrete, implementable technical requirements. It defines **how the EFADP system must be built**, focusing on architecture, system components, data flows, infrastructure, security, scalability, and operational requirements.
 
 This document is intended for:
